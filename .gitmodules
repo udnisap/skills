@@ -1,0 +1,9 @@
+[submodule "motion-canvas/repos/examples"]
+	path = motion-canvas/repos/examples
+	url = https://github.com/motion-canvas/examples.git
+[submodule "motion-canvas/repos/motion-canvas.github.io"]
+	path = motion-canvas/repos/motion-canvas.github.io
+	url = https://github.com/motion-canvas/motion-canvas.github.io.git
+[submodule "motion-canvas/repos/motion-canvas"]
+	path = motion-canvas/repos/motion-canvas
+	url = https://github.com/motion-canvas/motion-canvas.git
